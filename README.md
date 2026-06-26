@@ -28,3 +28,6 @@ g++ -std=c++17 main.cpp -o host.app -ldl
 ├── src/
 │   ├── greeter_component.cpp   # Implementación del componente Greeter.
 ```
+
+Supercalifragilisticoespiralidoso
+
