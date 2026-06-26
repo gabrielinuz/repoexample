@@ -1,4 +1,5 @@
-# <img src="logo/ukepromo.png" width="600" height="480" align="center"> 
+# <img src="logo/ukepromo.png" width="600" height="480" align="center">
+
 RepoEXAMPLE: La mejor cara para tu ukelele...
 
 ## ⧉ Decisiones Técnicas Clave
@@ -6,12 +7,16 @@ RepoEXAMPLE: La mejor cara para tu ukelele...
 ### 1. Comprar un ukelele más barato
 
 # 2. Compilar el Ejecutable Principal
+
 # Necesitamos enlazar la biblioteca -ldl para poder usar dlopen, dlclose, dlsym en Linux
+
 g++ -std=c++17 main.cpp -o host.app -ldl
 
 # 3. Ejecutar la aplicación
+
 ./host.app
-```
+
+````
 ## ⧉ Estructura de directorios
 ```text
 ├── doc/                        # Documentación y modelos UML
@@ -27,7 +32,22 @@ g++ -std=c++17 main.cpp -o host.app -ldl
 │   ├── Logo de la aplicación.
 ├── src/
 │   ├── greeter_component.cpp   # Implementación del componente Greeter.
-```
+````
 
-Supercalifragilisticoespiralidoso
+         _nnnn_
+        dGGGGMMb     ,"""""""""""""".
+       @p~qp~~qMb    | Linux Rules! |
+       M|@||@) M|   _;..............'
+       @,----.JM| -'
+      JS^\__/  qKL
+     dZP        qKRb
+    dZP          qKKb
 
+fZP SMMb
+HZM MMMM
+FqM MMMM
+**| ". |\dS"qML
+| `.       | `' \Zq
+_) \._**.,| .'
+\_\_\_\_ )MMMMMM| .'
+`-'       `--' hjm
